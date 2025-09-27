@@ -1,4 +1,4 @@
-hello, this is Aakash.
+Hello, this is Aakash.
 💻 no balance, just vibes, bugs, and 3am commits.  
 🎓 **Pre-final year university student** passionate about solving real-world problems at scale using AI, deep learning, and full-stack development. I thrive on building impactful projects—especially in healthcare, smart urban solutions, and real-time systems.
 
