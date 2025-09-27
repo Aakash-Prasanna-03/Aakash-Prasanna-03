@@ -82,7 +82,7 @@ Hello, this is Aakash.
 ## 🌐 Connect with Me
 
 - [LinkedIn](https://www.linkedin.com/in/aakash-prasanna-758741297)
-- 📧 aakashp0320@gamil.com
+- aakashp0320@gamil.com
 
 ---
 
