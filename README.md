@@ -31,23 +31,6 @@ Hello, this is Aakash.
 ![Multer](https://img.shields.io/badge/Multer-1d72b8?style=for-the-badge)
 ![Leaflet](https://img.shields.io/badge/Leaflet-199900?style=for-the-badge&logo=leaflet&logoColor=white)
 
-### 🏥 Healthcare & Data Interoperability
-![FHIR R4](https://img.shields.io/badge/FHIR_R4-red?style=for-the-badge)
-![Clinical Decision Support](https://img.shields.io/badge/Clinical%20Decision%20Support-blueviolet?style=for-the-badge)
-![JSON](https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white)
-
-### ⚙️ DevOps & Project Management
-![Modular Architecture](https://img.shields.io/badge/Modular%20Architecture-0d1117?style=for-the-badge)
-![Deployment Ready](https://img.shields.io/badge/Deployment_Ready-008080?style=for-the-badge)
-![Scalable Codebase](https://img.shields.io/badge/Scalable%20Codebase-0a9396?style=for-the-badge)
-
-### 🎨 UI/UX
-![WCAG AA](https://img.shields.io/badge/WCAG%20AA-005A9C?style=for-the-badge)
-![Data Visualization](https://img.shields.io/badge/Data%20Visualization-ffb703?style=for-the-badge)
-![Dashboards](https://img.shields.io/badge/Dashboards-333333?style=for-the-badge)
-![Light/Dark Mode](https://img.shields.io/badge/Light/Dark%20Mode-22223b?style=for-the-badge)
-
----
 
 ## 🏆 Featured Projects & Achievements
 
