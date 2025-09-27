@@ -2,6 +2,9 @@
 💻 no balance, just vibes, bugs, and 3am commits.  
 
 🎓 **Pre-final year university student** with a passion for solving real-world problems at scale using AI, deep learning, and full-stack development. I thrive on building impactful projects—especially those that blend AI and practical applications for health and safety.
+# 👋 Hi, I'm Aakash Prasanna
+
+🎓 **Pre-final year university student** with a passion for solving real-world problems at scale using AI, deep learning, and full-stack development. I thrive on building impactful projects—especially those that blend AI and practical applications for health and safety.
 
 ---
 
