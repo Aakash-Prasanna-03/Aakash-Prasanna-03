@@ -1,6 +1,7 @@
-Hello, this is Aakash.
-💻 no balance, just vibes, bugs, and 3am commits.  
-🎓 **Pre-final year university student** passionate about solving real-world problems at scale using AI, deep learning, and full-stack development. I thrive on building impactful projects—especially in healthcare, smart urban solutions, and real-time systems.
+Hello, this is Aakash.  
+💻 locked in coding sprints or doomscrolling in bed, either way, no middle ground.  
+🎓 I thrive on building AI-driven solutions in healthcare, education & workplace safety, turning complex ideas into real-world impact.  
+
 
 ---
 
