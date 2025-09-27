@@ -44,14 +44,6 @@ Hello, this is Aakash.
   - Combines semantic search, AI recommendations, and FHIR data integration.
   - 🥇 **Hackathon Winner:** Recognized for innovation in healthcare AI.
 
-- **[Urban Smart Management System](https://github.com/Aakash-Prasanna-03/urban-smart-management-system)**
-  - Modular smart city platform for urban management using real-time data, mapping, and AI-powered analytics.
-
-- **[AI Risk Prediction](https://github.com/Aakash-Prasanna-03/Ai-risk-prediction)**
-  - AI model for predictive risk analysis in clinical scenarios.
-
----
-
 ## 💡 Interests
 
 - Artificial Intelligence & Machine Learning (AI/ML)
