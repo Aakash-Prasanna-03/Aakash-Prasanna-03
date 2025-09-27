@@ -1,8 +1,5 @@
-Hello, this is Aakash.  
-💻 locked in coding sprints or doomscrolling in bed, either way, no middle ground.  
-🎓 I thrive on building AI-driven solutions in healthcare, education & workplace safety, turning complex ideas into real-world impact.  
-
-
+Hello, I’m Aakash.
+I’m either deep in coding sprints or doomscrolling in bed—no middle ground. I enjoy building AI-driven solutions in healthcare, education, and workplace safety, transforming complex ideas into real-world impact.
 ---
 
 ## 🚀 Tech Stack
