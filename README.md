@@ -1,53 +1,71 @@
-# 👋 hi, it’s aakash — either bedrotting & doomscrolling or sleeplessly coding through hackathons.  
+hello, this is Aakash.
 💻 no balance, just vibes, bugs, and 3am commits.  
-
-🎓 **Pre-final year university student** with a passion for solving real-world problems at scale using AI, deep learning, and full-stack development. I thrive on building impactful projects—especially those that blend AI and practical applications for health and safety.
-# 👋 Hi, I'm Aakash Prasanna
-
-🎓 **Pre-final year university student** with a passion for solving real-world problems at scale using AI, deep learning, and full-stack development. I thrive on building impactful projects—especially those that blend AI and practical applications for health and safety.
+🎓 **Pre-final year university student** passionate about solving real-world problems at scale using AI, deep learning, and full-stack development. I thrive on building impactful projects—especially in healthcare, smart urban solutions, and real-time systems.
 
 ---
 
-## 🚀 Technical Skills
+## 🚀 Tech Stack
 
-**Artificial Intelligence & Deep Learning**
-- Computer Vision: Face detection, object detection (YOLO, FastRCNN), real-time video analytics
-- NLP: Semantic search, sentence transformers, vector databases (ChromaDB)
-- Generative AI: Google Gemini API integration
+### 🧠 Artificial Intelligence & Deep Learning
+![YOLO](https://img.shields.io/badge/YOLO-v4/v5/v8-black?style=for-the-badge)
+![FastRCNN](https://img.shields.io/badge/FastRCNN-gray?style=for-the-badge)
+![MTCNN](https://img.shields.io/badge/MTCNN-blue?style=for-the-badge)
+![InceptionResnetV1](https://img.shields.io/badge/InceptionResnetV1-orange?style=for-the-badge)
+![Sentence Transformers](https://img.shields.io/badge/Sentence_Transformers-4B8BBE?style=for-the-badge)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-purple?style=for-the-badge)
+![Google Gemini API](https://img.shields.io/badge/Google%20Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white)
 
-**Full-Stack Development**
-- **Backend:** Flask (Python), Node.js (Express)
-- **Frontend:** React, Next.js, TypeScript, Tailwind CSS
-- **Database:** MongoDB, ChromaDB
-- **Other:** RESTful APIs, Firebase authentication, Multer file uploads, Leaflet for maps
+### 🖥️ Full-Stack Development
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node-dot-js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![REST APIs](https://img.shields.io/badge/REST%20APIs-005571?style=for-the-badge)
+![Multer](https://img.shields.io/badge/Multer-1d72b8?style=for-the-badge)
+![Leaflet](https://img.shields.io/badge/Leaflet-199900?style=for-the-badge&logo=leaflet&logoColor=white)
 
-**Healthcare & Data Interoperability**
-- FHIR R4 standard for healthcare data
-- Clinical decision support systems
-- Data ingestion & structured processing (JSON, FHIR)
+### 🏥 Healthcare & Data Interoperability
+![FHIR R4](https://img.shields.io/badge/FHIR_R4-red?style=for-the-badge)
+![Clinical Decision Support](https://img.shields.io/badge/Clinical%20Decision%20Support-blueviolet?style=for-the-badge)
+![JSON](https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white)
 
-**DevOps & Project Management**
-- Modular project architecture (frontend, backend, admin portals)
-- Environment configuration & deployment readiness
-- Scalable, maintainable codebases
+### ⚙️ DevOps & Project Management
+![Modular Architecture](https://img.shields.io/badge/Modular%20Architecture-0d1117?style=for-the-badge)
+![Deployment Ready](https://img.shields.io/badge/Deployment_Ready-008080?style=for-the-badge)
+![Scalable Codebase](https://img.shields.io/badge/Scalable%20Codebase-0a9396?style=for-the-badge)
 
-**UI/UX**
-- Professional, accessible (WCAG AA) design
-- Interactive data visualizations, dashboards, light/dark mode
+### 🎨 UI/UX
+![WCAG AA](https://img.shields.io/badge/WCAG%20AA-005A9C?style=for-the-badge)
+![Data Visualization](https://img.shields.io/badge/Data%20Visualization-ffb703?style=for-the-badge)
+![Dashboards](https://img.shields.io/badge/Dashboards-333333?style=for-the-badge)
+![Light/Dark Mode](https://img.shields.io/badge/Light/Dark%20Mode-22223b?style=for-the-badge)
 
 ---
 
 ## 🏆 Featured Projects & Achievements
 
 - **[Real-Time Safety PPE Detection](https://github.com/Aakash-Prasanna-03/realtime-ppe-safety-detection-nus)**
-  - Built an advanced automated system for PPE detection and violator face recognition, used for real-time safety monitoring.
+  - Advanced automated system for PPE detection and violator face recognition, used for real-time safety monitoring.
   - Integrated MTCNN, InceptionResnetV1, YOLO, and FastRCNN for robust detection.
-  - Collaborated with NUS (National University of Singapore) for deployment and field testing.
+  - Collaboration with NUS (National University of Singapore) for deployment and field testing.
 
 - **[Clinical Copilot](https://github.com/Aakash-Prasanna-03/Clinical-copilot)**
-  - Developed a full-stack AI-powered clinical decision support platform for healthcare professionals.
+  - Full-stack AI-powered clinical decision support platform for healthcare professionals.
   - Combines semantic search, AI recommendations, and FHIR data integration.
   - 🥇 **Hackathon Winner:** Recognized for innovation in healthcare AI.
+
+- **[Urban Smart Management System](https://github.com/Aakash-Prasanna-03/urban-smart-management-system)**
+  - Modular smart city platform for urban management using real-time data, mapping, and AI-powered analytics.
+
+- **[AI Risk Prediction](https://github.com/Aakash-Prasanna-03/Ai-risk-prediction)**
+  - AI model for predictive risk analysis in clinical scenarios.
 
 ---
 
