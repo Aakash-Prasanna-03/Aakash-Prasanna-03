@@ -4,7 +4,7 @@ I’m either deep in coding sprints or doomscrolling in bed—no middle ground. 
 
 ## 🚀 Tech Stack
 
-### 🧠 Artificial Intelligence & Deep Learning
+### 🧠 Artificial Intelligence, Machine Learning & Deep Learning
 ![YOLO](https://img.shields.io/badge/YOLO-v4/v5/v8-black?style=for-the-badge)
 ![FastRCNN](https://img.shields.io/badge/FastRCNN-gray?style=for-the-badge)
 ![MTCNN](https://img.shields.io/badge/MTCNN-blue?style=for-the-badge)
@@ -12,6 +12,17 @@ I’m either deep in coding sprints or doomscrolling in bed—no middle ground. 
 ![Sentence Transformers](https://img.shields.io/badge/Sentence_Transformers-4B8BBE?style=for-the-badge)
 ![ChromaDB](https://img.shields.io/badge/ChromaDB-purple?style=for-the-badge)
 ![Google Gemini API](https://img.shields.io/badge/Google%20Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
+![Neural Networks](https://img.shields.io/badge/Neural_Networks-6e5494?style=for-the-badge)
+![Machine Learning](https://img.shields.io/badge/Machine_Learning-blueviolet?style=for-the-badge)
+![Deep Learning](https://img.shields.io/badge/Deep_Learning-1f8ef1?style=for-the-badge)
+![NLP](https://img.shields.io/badge/NLP-008080?style=for-the-badge)
+![Computer Vision](https://img.shields.io/badge/Computer_Vision-2E8B57?style=for-the-badge)
 
 ### 🖥️ Full-Stack Development
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
