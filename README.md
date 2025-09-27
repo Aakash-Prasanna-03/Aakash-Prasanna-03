@@ -5,26 +5,24 @@ I’m either deep in coding sprints or doomscrolling in bed—no middle ground. 
 ## 🚀 Tech Stack
 
 ### 🧠 Artificial Intelligence, Machine Learning & Deep Learning
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=matplotlib&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-54a4b1?style=for-the-badge)
 ![YOLO](https://img.shields.io/badge/YOLO-v4/v5/v8-black?style=for-the-badge)
 ![FastRCNN](https://img.shields.io/badge/FastRCNN-gray?style=for-the-badge)
 ![MTCNN](https://img.shields.io/badge/MTCNN-blue?style=for-the-badge)
 ![InceptionResnetV1](https://img.shields.io/badge/InceptionResnetV1-orange?style=for-the-badge)
 ![Sentence Transformers](https://img.shields.io/badge/Sentence_Transformers-4B8BBE?style=for-the-badge)
 ![ChromaDB](https://img.shields.io/badge/ChromaDB-purple?style=for-the-badge)
-![Google Gemini API](https://img.shields.io/badge/Google%20Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
-![Neural Networks](https://img.shields.io/badge/Neural_Networks-6e5494?style=for-the-badge)
-![Machine Learning](https://img.shields.io/badge/Machine_Learning-blueviolet?style=for-the-badge)
-![Deep Learning](https://img.shields.io/badge/Deep_Learning-1f8ef1?style=for-the-badge)
+![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=opencv&logoColor=white)
 ![NLP](https://img.shields.io/badge/NLP-008080?style=for-the-badge)
-![Computer Vision](https://img.shields.io/badge/Computer_Vision-2E8B57?style=for-the-badge)
 
-### 🖥️ Full-Stack Development
+### 🖥️ Full-Stack / Web Development
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node-dot-js&logoColor=white)
@@ -35,11 +33,11 @@ I’m either deep in coding sprints or doomscrolling in bed—no middle ground. 
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 ![REST APIs](https://img.shields.io/badge/REST%20APIs-005571?style=for-the-badge)
 ![Multer](https://img.shields.io/badge/Multer-1d72b8?style=for-the-badge)
 ![Leaflet](https://img.shields.io/badge/Leaflet-199900?style=for-the-badge&logo=leaflet&logoColor=white)
-
 
 ## 🌐 Connect with Me
 
