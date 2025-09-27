@@ -33,28 +33,6 @@ Hello, this is Aakash.
 ![Leaflet](https://img.shields.io/badge/Leaflet-199900?style=for-the-badge&logo=leaflet&logoColor=white)
 
 
-## 🏆 Featured Projects & Achievements
-
-- **[Real-Time Safety PPE Detection](https://github.com/Aakash-Prasanna-03/realtime-ppe-safety-detection-nus)**
-  - Advanced automated system for PPE detection and violator face recognition, used for real-time safety monitoring.
-  - Integrated MTCNN, InceptionResnetV1, YOLO, and FastRCNN for robust detection.
-  - Collaboration with NUS (National University of Singapore) for deployment and field testing.
-
-- **[Clinical Copilot](https://github.com/Aakash-Prasanna-03/Clinical-copilot)**
-  - Full-stack AI-powered clinical decision support platform for healthcare professionals.
-  - Combines semantic search, AI recommendations, and FHIR data integration.
-  - 🥇 **Hackathon Winner:** Recognized for innovation in healthcare AI.
-
-## 💡 Interests
-
-- Artificial Intelligence & Machine Learning (AI/ML)
-- Deep Learning (Computer Vision & NLP)
-- Real-time systems & edge AI
-- Scalable full-stack application design
-- Healthcare technology & smart urban solutions
-
----
-
 ## 🌐 Connect with Me
 
 - [LinkedIn](https://www.linkedin.com/in/aakash-prasanna-758741297)
