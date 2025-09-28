@@ -15,8 +15,6 @@ I’m either deep in coding sprints or doomscrolling in bed—no middle ground. 
 ![Seaborn](https://img.shields.io/badge/Seaborn-54a4b1?style=for-the-badge)
 ![YOLO](https://img.shields.io/badge/YOLO-v4/v5/v8-black?style=for-the-badge)
 ![FastRCNN](https://img.shields.io/badge/FastRCNN-gray?style=for-the-badge)
-![MTCNN](https://img.shields.io/badge/MTCNN-blue?style=for-the-badge)
-![InceptionResnetV1](https://img.shields.io/badge/InceptionResnetV1-orange?style=for-the-badge)
 ![Sentence Transformers](https://img.shields.io/badge/Sentence_Transformers-4B8BBE?style=for-the-badge)
 ![ChromaDB](https://img.shields.io/badge/ChromaDB-purple?style=for-the-badge)
 ![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=opencv&logoColor=white)
@@ -35,7 +33,6 @@ I’m either deep in coding sprints or doomscrolling in bed—no middle ground. 
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![REST APIs](https://img.shields.io/badge/REST%20APIs-005571?style=for-the-badge)
 ![Multer](https://img.shields.io/badge/Multer-1d72b8?style=for-the-badge)
 ![Leaflet](https://img.shields.io/badge/Leaflet-199900?style=for-the-badge&logo=leaflet&logoColor=white)
 
