@@ -18,7 +18,6 @@ I’m either deep in coding sprints or doomscrolling in bed—no middle ground. 
 ![Sentence Transformers](https://img.shields.io/badge/Sentence_Transformers-4B8BBE?style=for-the-badge)
 ![ChromaDB](https://img.shields.io/badge/ChromaDB-purple?style=for-the-badge)
 ![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=opencv&logoColor=white)
-![NLP](https://img.shields.io/badge/NLP-008080?style=for-the-badge)
 
 ### 🖥️ Full-Stack / Web Development
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -33,8 +32,6 @@ I’m either deep in coding sprints or doomscrolling in bed—no middle ground. 
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![Multer](https://img.shields.io/badge/Multer-1d72b8?style=for-the-badge)
-![Leaflet](https://img.shields.io/badge/Leaflet-199900?style=for-the-badge&logo=leaflet&logoColor=white)
 
 ## 🌐 Connect with Me
 
